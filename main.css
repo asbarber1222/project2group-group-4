@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    color: tomato;
+    color: #aa0000;
     margin-left: 20px;
     font-size: 1.0em;
 }
@@ -12,7 +12,7 @@ p  {
     font-size: 1.0em;
 }
 h2 {
-    color: darkgoldenrod;
+    color: 5a440d;
     margin-left: 20px;
     font-size: 1.0em;
 }
